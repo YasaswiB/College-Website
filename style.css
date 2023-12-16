@@ -104,3 +104,8 @@ img {
             border-bottom: 1px solid #ccc;
             margin-bottom: 10px;
         }
+ footer {
+          background-color: #92b2e2;
+          padding: 5px;
+          text-align: center;
+      }
